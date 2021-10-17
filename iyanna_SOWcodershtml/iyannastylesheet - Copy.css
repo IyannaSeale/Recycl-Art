@@ -1,0 +1,25 @@
+a {
+  color: green;
+}
+p {
+  color: #03ecfc;
+}
+
+h5 {
+  color:red;
+  font-family: papyrus;
+  font size: 80px;
+  text-align: center;
+}
+
+h2 {
+  background-color: blue;
+}
+#recyclingimage{
+  height:40%;
+  width:40%;
+}
+
+#aboutmebodytag{
+  background-image: url("beach.jpg");
+}
