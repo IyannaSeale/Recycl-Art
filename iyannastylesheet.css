@@ -1,0 +1,74 @@
+
+body {
+  background-color: #83EEF5;
+}
+
+#recyclelogo {
+   height: 20%;
+   width: 20%;
+   text-align: center;
+}
+
+#title {
+  font-size: 100px;
+  font-family: serif;
+
+}
+
+.nav1 {
+  color: black;
+  text-align: center;
+  font size: ;
+  font-family: Georgiaserif;
+}
+
+
+
+
+
+
+h5 {
+  color:red;
+  font-family: papyrus;
+  text-align: center;
+}
+
+h2 {
+  background-color: blue;
+}
+
+.one {
+  color: blue;
+}
+
+.two {
+   color:black;
+   background-color:#83EEF5;
+   padding: 28px;
+ }
+
+ul {
+  list-style-type: lower-roman;
+}
+
+h2 {
+  background-color: blue;
+
+
+#aboutmebodytag{
+  background-image: url("beach.jpg");
+}
+
+
+
+.button {
+display:square;
+height:50%;
+background-color: pink;
+color: white;
+text-align: center;
+}
+
+#video{
+  align-items: center;
+}
