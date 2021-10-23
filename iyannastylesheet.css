@@ -1,66 +1,66 @@
 #indexbodytag{
-  background-image:url("mural2.jpg");
+background-image:url("mural2.jpg");
 }
 
 #aboutmebodytag{
-  background-color: #A9F5FA;
+background-color: #A9F5FA;
 }
 
 #mymissionbodytag{
-  background-color: #A9F5FA;
+background-color: #A9F5FA;
 }
 
 #howdoesitworkbodytag{
-    background-color: #A9F5FA;
+background-color: #A9F5FA;
 }
 
 #recyclelogo {
-   height: 150px;
-   width: 150px;
-   text-align: center;
-   margin-bottom: auto;
-
+height: 150px;
+width: 150px;
+text-align: center;
+margin-bottom: auto;
 }
 
 #title {
-  margin-top: auto;
-  font-size: 100px;
-  font-family: serif;
-  color: white;
+margin-top: auto;
+font-size: 100px;
+font-family: serif;
+color: white;
 }
 
 .nav1 {
-  color: white;
-  text-align: center;
-  font size: 50px;
-  font-family: sans-serif;
-  background-color: blue;
-  padding: 15px;
+color: white;
+text-align: center;
+font size: 50px;
+font-family: sans-serif;
+background-color: blue;
+padding: 15px;
 }
 
 .nav2 {
+margin-top: -50px;
 color: white;
 text-align: center;
-font size: 90px;
+font-size: 20px;
 }
 
 #link{
-  background-color: blue;
-  text-align: center;
-  width: 200px;
+background-color: blue;
+text-align: center;
+width: 200px;
 }
 
 .headers {
-  background-color: blue;
-  padding-top: 10px;
-  text-align: center;
+background-color: blue;
+padding-top: 10px;
+text-align: center;
 }
 
 .bodyformat {
-  text-align: center;
-  font-size: 20px;
-  font-family: serif;
-  color: black;
+text-align: center;
+font-size: 20px;
+font-family: serif;
+color: black;
 }
 
 #Artpic {
@@ -69,43 +69,44 @@ height: 400px;
 }
 
 #Bottlereuse{
-  width:900px;
-  height:500px;
-  align-items: center;
+width:900px;
+height:500px;
+align-items: center;
 }
 
 ul {
-  list-style-type: circle;
+list-style-type: circle;
 }
 
 a:link {
-  color: white;
-  background-color: transparent;
-  text-decoration: none;
+color: white;
+background-color: transparent;
+text-decoration: none;
 }
 
 a:visited {
-  color: white;
-  background-color: transparent;
-  text-decoration: none;
+color: white;
+background-color: transparent;
+text-decoration: none;
 }
 
 a:hover {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
+color: red;
+background-color: transparent;
+text-decoration: underline;
 }
 
 a:active {
-  color: lime;
-  background-color: transparent;
-  text-decoration: underline;
+color: lime;
+background-color: transparent;
+text-decoration: underline;
 }
 
 
 .myform {
 color: black;
 text-align: center;
+font-size: 20px;
 }
 
 #button{
@@ -116,35 +117,45 @@ height: 100px;
 }
 
 #Formpic{
-  width:500px;
-  height:250px;
-  align-items: center;
+width:500px;
+height:250px;
+align-items: center;
 }
 
 #Bagpic{
-  width:200px;
-  height:250px;
-  align-items: center;
+width:200px;
+height:250px;
+align-items: center;
 }
 
 #Cleanpic{
-  width:500px;
-  height:250px;
-  align-items: center;
+width:500px;
+height:250px;
+align-items: center;
 }
 
 #Communityclean{
-  width:350px;
-  height:250px;
-  align-items: center;
+width:350px;
+height:250px;
+align-items: center;
 }
 
 #Artpic2{
-  width: 300px;
-  height: 400px;
+width: 300px;
+height: 400px;
 }
 
+.gr{
+font-size: 20px;
+}
 
 #video{
-  align-items: center;
+align-items: center;
+}
+
+#foot{
+text-align: center;
+color: white;
+font-size: 20px;
+background-color: blue;
 }
